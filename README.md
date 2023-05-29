@@ -1,5 +1,4 @@
-### JSF
-- #### Proyecto java Web / Implementando JSF
+### Proyecto JAVA Web / Implementando JSF
 - #### Registro de Datos (Sin Base de datos)
 
 
